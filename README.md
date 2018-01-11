@@ -25,5 +25,5 @@ variable `FLUENTD_ARGS`.
 [kubernetes]: https://github.com/kubernetes/kubernetes
 [stackdriverLogging]: https://cloud.google.com/logging
 [fluentdDocs]: http://docs.fluentd.org/articles/config-file
-[sumologic-cloud-syslog](https://github.com/acquia/fluent-plugin-sumologic-cloud-syslog)
-[sumologic](https://www.sumologic.com)
+[sumologic-cloud-syslog]: https://github.com/acquia/fluent-plugin-sumologic-cloud-syslog
+[sumologic]: https://www.sumologic.com

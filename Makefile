@@ -1,3 +1,4 @@
+# TODO: Include the project ID in <your-project-id>
 
 .PHONY:	build push
 
